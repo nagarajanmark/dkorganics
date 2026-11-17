@@ -3,7 +3,7 @@
  * Flip to `false` when the full website is finished and ready to launch.
  * While `true`, the full work-in-progress site remains accessible at `/preview`.
  */
-export const SITE_COMING_SOON = true;
+export const SITE_COMING_SOON = false;
 
 export interface ProductSpec {
   id: "neem-cake-powder";
